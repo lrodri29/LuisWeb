@@ -1,0 +1,6 @@
+name: Luis' Rodriguez ENG
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+baseurl: "/LuisSite/"
+url: ""
+github_username: lrodri29
