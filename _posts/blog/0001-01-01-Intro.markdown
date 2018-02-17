@@ -5,4 +5,6 @@ date:   2018-02-14 18:11:16
 categories: blog
 ---
 
-My name is Luis, here I will present new research I am interested in! I will write a short briefing of the article and hope to motivate you to think more about the topics I share
+*Hello!*
+
+In this section I will present the multiple projects I have previously worked on and some of which I am currently involved in. Please contact me if you have any more questions about any specific project or if you just want to talk more about the topic!
