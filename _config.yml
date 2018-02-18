@@ -1,8 +1,6 @@
 name: Luis' Rodriguez ENG
 markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+baseurl: "/LuisWeb/"
+url: ""
 github_username: lrodri29
-
- # Change these two keys when you add a domain name
- url: https://lrodri29.github.io/LuisWeb/
- baseurl: /LuisWeb
