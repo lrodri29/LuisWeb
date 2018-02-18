@@ -1,5 +1,4 @@
 name: Luis' Rodriguez ENG
-markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 github_username: lrodri29
