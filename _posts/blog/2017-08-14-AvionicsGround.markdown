@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Avionics Ground Station for AstroJays Rocket"
-date:   2017-08-10 18:11:16
+date:   2017-08-10 .
 categories: blog
 ---
 
