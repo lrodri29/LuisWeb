@@ -13,7 +13,7 @@ layout: default
 {% for post in site.categories['blog'] limit:3%}
 
     <div class="post-header title">
-      <a href="{{post.url}}"><h1 class="post-title">{{ post.title }}</h1></a>
+      <a href="LuisWeb{{post.url}}"><h1 class="post-title">{{ post.title }}</h1></a>
     </div>
     <div class="post-header date">
       <p class="post-meta">{{ post.date | date: "%B %-d, %Y — %H:%M" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
@@ -22,7 +22,7 @@ layout: default
 {% endfor %}
 <hr class="bar-blog"> </hr>
 
-<h2 id="Blog"><a href="/posts"> More >> </a></h2>
+<h2 id="Blog"><a href="/LuisWeb/posts"> More >> </a></h2>
 
 
 
