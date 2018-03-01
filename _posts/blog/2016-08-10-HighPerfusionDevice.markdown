@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "High Perfusion Device (Diabetes Research Institute)"
-date:   2016-08-10 .
+date:   2016-08-10 18:10:20
 categories: blog
 ---
 
