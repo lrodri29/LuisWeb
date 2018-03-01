@@ -10,3 +10,7 @@ In the summer of 2016 I interned at the Diabetes Research Center. Among the thre
 The perfusion device was mostly designed using SolidWorks and was entirely 3D printed. We had the opportunity to create two prototypes of the device, both of which are still operational today at the center. The devices were both coded using Python and Matlab and primarily depended on ARDUINO and Raspberry-Py controllers.
 
 Upon finalizing our project, our tests showed that our high perfusion device was much more efficient at delivering the scheduled glucose mixture injections, and extended the shelf0life of the pancreatic chips significantly.  Below you can see a picture of the finalized device and CAD design.
+
+<img align="center" src="https://raw.githubusercontent.com/lrodri29/LuisWeb/gh-p/Screen%20Shot%202018-03-01%20at%2011.50.07%20AM.png" width="650" height="500"/>
+
+<img align="center" src="https://raw.githubusercontent.com/lrodri29/LuisWeb/gh-p/Screen%20Shot%202018-03-01%20at%2011.49.22%20AM.png" width="650" height="370"/>
