@@ -1,6 +1,6 @@
 name: Luis' Rodriguez ENG
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-
+markdown: redcarpet
 github_username: lrodri29
 
 # Change these two keys when you add a domain name
