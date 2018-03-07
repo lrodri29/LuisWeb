@@ -5,7 +5,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 url: "https://lrodri29.github.io/LuisWeb"
 baseurl: ""
 github_username: lrodri29
-
+disqus_short_name: luisrodriguezeng
 # name: Luis' Rodriguez ENG
 # markdown: redcarpet
 # exclude: ["node_modules", "gulpfile.js", "package.json"]
