@@ -10,4 +10,4 @@ As the leader of the team I was involved mainly in management, budgeting and fin
 
 Developed a website for members of the ChemE Car to have private access to announcement, scheduling and group reports. The website serves as a face for the ChemE Car Organization at Johns Hopkins University to inform visitors of the projects underwent by the team. The website also serves as a phone application which allows signed in members to have constant access to announcements, scheduling lab times and share reports. 
 
-https://jhu-chem-e-car.github.io/
+[https://jhu-chem-e-car.github.io/](https://jhu-chem-e-car.github.io/)
